@@ -1,14 +1,10 @@
-# =============== #
-# Unity generated #
-# =============== #
+# Unity generated
 Temp/
 Obj/
 UnityGenerated/
 Library/
 
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
+# Visual Studio / MonoDevelop generated
 ExportedObj/
 *.svd
 *.userprefs
@@ -20,9 +16,7 @@ ExportedObj/
 *.unityproj
 *.booproj
 
-# ============ #
-# OS generated #
-# ============ #
+# OS generated
 .DS_Store
 .DS_Store?
 ._*
@@ -31,3 +25,7 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# VIM
+*.sw[pod]
+*.~
